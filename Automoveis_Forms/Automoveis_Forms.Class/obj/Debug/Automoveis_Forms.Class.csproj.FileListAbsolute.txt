@@ -1,0 +1,5 @@
+C:\Users\humbe\Documents\Visual Studio 2015\Projects\Automoveis_Forms\Automoveis_Forms.Class\obj\Debug\Automoveis_Forms.Class.csprojResolveAssemblyReference.cache
+C:\Users\humbe\Documents\Visual Studio 2015\Projects\Automoveis_Forms\Automoveis_Forms.Class\bin\Debug\Automoveis_Forms.Class.dll
+C:\Users\humbe\Documents\Visual Studio 2015\Projects\Automoveis_Forms\Automoveis_Forms.Class\bin\Debug\Automoveis_Forms.Class.pdb
+C:\Users\humbe\Documents\Visual Studio 2015\Projects\Automoveis_Forms\Automoveis_Forms.Class\obj\Debug\Automoveis_Forms.Class.dll
+C:\Users\humbe\Documents\Visual Studio 2015\Projects\Automoveis_Forms\Automoveis_Forms.Class\obj\Debug\Automoveis_Forms.Class.pdb

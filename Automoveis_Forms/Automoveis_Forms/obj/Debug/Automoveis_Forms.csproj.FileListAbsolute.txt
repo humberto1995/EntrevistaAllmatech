@@ -1,0 +1,16 @@
+C:\Users\humbe\Documents\Visual Studio 2015\Projects\Automoveis_Forms\Automoveis_Forms\bin\Debug\Automoveis_Forms.exe.config
+C:\Users\humbe\Documents\Visual Studio 2015\Projects\Automoveis_Forms\Automoveis_Forms\bin\Debug\Automoveis_Forms.exe
+C:\Users\humbe\Documents\Visual Studio 2015\Projects\Automoveis_Forms\Automoveis_Forms\bin\Debug\Automoveis_Forms.pdb
+C:\Users\humbe\Documents\Visual Studio 2015\Projects\Automoveis_Forms\Automoveis_Forms\obj\Debug\Automoveis_Forms.csprojResolveAssemblyReference.cache
+C:\Users\humbe\Documents\Visual Studio 2015\Projects\Automoveis_Forms\Automoveis_Forms\obj\Debug\Automoveis_Forms.FrmCadastroCarros.resources
+C:\Users\humbe\Documents\Visual Studio 2015\Projects\Automoveis_Forms\Automoveis_Forms\obj\Debug\Automoveis_Forms.FrmCadastroMarcas.resources
+C:\Users\humbe\Documents\Visual Studio 2015\Projects\Automoveis_Forms\Automoveis_Forms\obj\Debug\Automoveis_Forms.Properties.Resources.resources
+C:\Users\humbe\Documents\Visual Studio 2015\Projects\Automoveis_Forms\Automoveis_Forms\obj\Debug\Automoveis_Forms.csproj.GenerateResource.Cache
+C:\Users\humbe\Documents\Visual Studio 2015\Projects\Automoveis_Forms\Automoveis_Forms\obj\Debug\Automoveis_Forms.exe
+C:\Users\humbe\Documents\Visual Studio 2015\Projects\Automoveis_Forms\Automoveis_Forms\obj\Debug\Automoveis_Forms.pdb
+C:\Users\humbe\Documents\Visual Studio 2015\Projects\Automoveis_Forms\Automoveis_Forms\obj\Debug\Automoveis_Forms.FrmCadastroLoguin.resources
+C:\Users\humbe\Documents\Visual Studio 2015\Projects\Automoveis_Forms\Automoveis_Forms\obj\Debug\Automoveis_Forms.FrmLogin.resources
+C:\Users\humbe\Documents\Visual Studio 2015\Projects\Automoveis_Forms\Automoveis_Forms\obj\Debug\Automoveis_Forms.FrmMenu.resources
+C:\Users\humbe\Documents\Visual Studio 2015\Projects\Automoveis_Forms\Automoveis_Forms\obj\Debug\Automoveis_Forms.FrmVisualizarLoguin.resources
+C:\Users\humbe\Documents\Visual Studio 2015\Projects\Automoveis_Forms\Automoveis_Forms\obj\Debug\Automoveis_Forms.FrmVisualizarCarros.resources
+C:\Users\humbe\Documents\Visual Studio 2015\Projects\Automoveis_Forms\Automoveis_Forms\obj\Debug\Automoveis_Forms.FrmVisualizarMarcas.resources
